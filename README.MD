@@ -12,6 +12,8 @@
 4. [Think Python](http://greenteapress.com/wp/think-python-2e/)
 
    非常有用的书。书非常注重训练学习者的计算机素养，特别是知识术语。懂了专业术语才可以快速描述、检索知识，工方便交流。术语（glossary）是专业化的第一步！
+
+   在任何学习过程中，第一要务是快速掌专业术语。
 5. [Python Crash Course](https://github.com/MrAlex6204/Books/blob/master/python-crash-course.pdf)
 
    目前评论最好的 Python 书。
